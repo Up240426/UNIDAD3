@@ -1,10 +1,10 @@
-#09_DayExcersice1
+
 
 age = int(input(f'Enter your age: '))
-if age >= 18:
+if age >= 20:
     print(f'You are old enough to drive')
 else:
-    print(f'You need {18-age} years to drive')
+    print(f'You need {20-age} years to drive')
 
 yourAge = int(input("Enter your age: "))
 myAge = 20
